@@ -1,13 +1,13 @@
-<h1 align="center">👨‍💻 Olá! Eu sou o Davi Tavares— Estudante de Engenharia da Computação</h1>
+<h1 align="center">👨‍💻 Hello! I am Davi Tavares— Computer Engineering Student</h1>
 
 <p align="center">
-  Apaixonado por tecnologia, criação e construção de soluções.  
-  Atualmente focado em desenvolvimento web e estudando para me tornar dev full-stack.
+  Passionate about technology, creation and building solutions.  
+  Currently focused on web development and studying to become a full-stack developer.
 </p>
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🚀 Technologies I'm Learning
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
@@ -18,28 +18,26 @@
 
 ---
 
-## 📚 Sobre mim
+## 📚 About Me
 
-- 🎓 Estudante de **Engenharia da Computação**
-- 🧠 facilidade com lógica e visão espacial, o que me ajudou muito no código
-- 🚀 Buscando minha primeira oportunidade como estagiário na área de tecnologia
-
----
-
-## 📌 O que estou estudando agora
-- C — 
-- HTML — 
-- CSS — 
-- JavaScript — 🚧 começando em breve
+- 🎓 Computer Engineering student
+- 🧠 Ease with logic and spatial reasoning, which helped me a lot in coding
+- 🚀 Looking for my first opportunity as a technology intern
 
 ---
 
+## 📌 What I'm Studying Now
+- C —
+- HTML —
+- CSS —
+- JavaScript — 🚧 starting soon
+
 ---
 
-## 📬 Entre em contato
-**Email:** tavaresdavi986@gmail.com
-**LinkedIn:** [https://www.linkedin.com/in/davi-nascimento-620961350/]  
+## 📬 Contact Me
+**Email:** tavaresdavi986@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/davi-nascimento-620961350/
 
 ---
 
-## 🌟 Obrigado por visitar meu perfil!
+## 🌟 Thank you for visiting my profile!
