@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Technologies I'm Learning
+##  Technologies 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
