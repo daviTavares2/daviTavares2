@@ -24,19 +24,14 @@
 
 ---
 
-## 📚 About Me
+##  About Me
 
-- 🎓 Computer Engineering student
-- 🧠 Ease with logic and spatial reasoning, which helped me a lot in coding
-- 🚀 Looking for my first opportunity as a technology intern
+-  Computer Engineering student
+-  Ease with logic and spatial reasoning, which helped me a lot in coding
+-  Looking for my first opportunity as a technology intern
 
 ---
 
-## 📌 What I'm Studying Now
-- C —
-- HTML —
-- CSS —
-- JavaScript — 🚧 starting soon
 
 ---
 
@@ -46,4 +41,4 @@
 
 ---
 
-## 🌟 Thank you for visiting my profile!
+## Thank you for visiting my profile!
